@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvpGetStarted</string>
+    <string name="btn_save">save</string>
+</resources>
